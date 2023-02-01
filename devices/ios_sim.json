@@ -1,0 +1,13 @@
+{
+  "platformName": "ios",
+  "appium:automationName": "XCUITest",
+  "appium:deviceName": "iPhone 13",
+  "appium:app": "/Users/nnamdiwilliams/Documents/appium/apps/sl.app",
+  "appium:bundleId": "com.saucelabs.SwagLabsMobileApp",
+  "appium:platformVersion": "15.5",
+  "appium:appWaitDuration": "30000",
+  "appium:usePrebuiltWDA": true,
+  "appium:noReset": true,
+  "appium:wdaLocalPort": "8100",
+  "appium:derivedDataPath": "/Users/nnamdiwilliams/Library/Developer/Xcode/DerivedData/WebDriverAgent-aghlrsejdreqngftgvcqwnjgrbou"
+}
